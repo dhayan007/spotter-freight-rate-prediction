@@ -29,7 +29,6 @@ spotter-freight-rate-prediction/
 ├── requirements.txt
 ├── score.py
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
